@@ -26,3 +26,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hanushrajputh&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+> Most of my repositories are private as I signed NDC for reputed projects and also because of confidentiality agreements
