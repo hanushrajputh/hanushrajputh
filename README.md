@@ -14,9 +14,9 @@
 <h3 align="left">Skills:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,wordpress,figma,postman,linux,arduino,java,mongodb,mysql,androidstudio," />
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hanushrajputh&theme=dark" alt="GitHub Streak" /></a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanushrajputh&layout=compact&theme=dark" alt="hanush" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanushrajputh&show_icons=true&theme=dark" alt="hanush" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hanushrajpuh&theme=dark" alt="GitHub Streak" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanushrajput&layout=compact&theme=dark" alt="hanush" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanushrajuth&show_icons=true&theme=dark" alt="hanush" /></p>
 
 ## Education:
 <img src="https://styles.redditmedia.com/t5_2vnw3/styles/communityIcon_wshm5n8a6v7c1.png" width="20" /> Bachelors in Computer Science 2023-2027  
