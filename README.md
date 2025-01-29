@@ -1,7 +1,7 @@
 <h1 align="center">Heyyy, Myself Hanush</h1>
 <h3 align="center">Founder & Developer at Studexia | AI & Startup Enthusiast</h3>
 
-<img src="https://github.com/user-attachments/assets/0da39c06-bafa-4e15-8f3b-5c7809a0d47b" alt="Hanush" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Hanush" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanushrajputh&label=Profile%20views&color=0e75b6&style=flat" alt="hanush" /> </p>
 
