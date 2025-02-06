@@ -14,9 +14,6 @@
 <h3 align="left">Skills:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,wordpress,figma,postman,linux,arduino,java,mongodb,mysql,androidstudio," />
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hanushrajputh&theme=highcontrast&hide_longest_streak=true" alt="GitHub Streak" /></a>
-
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hanushrajputh&theme=dark" alt="GitHub Streak" /></a>
 
 ## Education:
