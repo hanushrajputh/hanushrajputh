@@ -1,5 +1,5 @@
 <h1 align="center">Heyyy, Myself Hanush</h1>
-<h3 align="center">Founder & Developer at Studexia | AI & Startup Enthusiast</h3>
+<h3 align="center">Founder & Developer at BITS Orbit | AI & Startup Enthusiast</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Hanush" width="100%">
 
