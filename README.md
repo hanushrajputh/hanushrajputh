@@ -20,7 +20,7 @@
 ## Education:
 <img src="https://styles.redditmedia.com/t5_2vnw3/styles/communityIcon_wshm5n8a6v7c1.png" width="20" /> BITS Pilani: Bachelors in Computer Science 2023-2027  
 <img src="https://scet.berkeley.edu/wp-content/uploads/8.-SRM-Logo-300x300.png" width="20" /> SRMIST: Bachelors in CSE with Specialization in AI and ML 2023-2027  
-<img src="https://www.iitmandi.ac.in/research/biox/logo.jpg" width="20" /> IIT Mandi: Minor in Computer Science 2024-2025
+<img src="https://www.iitmandi.ac.in/images/logo_hires.png" width="20" /> IIT Mandi: Minor in Computer Science 2024-2025
 
 
 ## 🏆 GitHub Trophies
