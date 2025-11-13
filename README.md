@@ -1,11 +1,11 @@
-<h1 align="center">Heyyy, Myself Hanush</h1>
+<h1 align="center">Heyyy, I'm Hanush</h1>
 <h3 align="center">Out of the Rat race, into the good life.</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Hanush" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanushrajputh&label=Profile%20views&color=0e75b6&style=flat" alt="hanush" /> </p>
 
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hanush.co.in/) 
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-1F2937?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://hanush.co.in/)
 
 <h3 align="left">Let's Connect</h3>
 
@@ -16,6 +16,9 @@
 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hanushrajputh&theme=dark" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://pacman.abozanona.me?username=hanushrajputh" />
+</p>
 
 ## Education:
 <img src="https://styles.redditmedia.com/t5_2vnw3/styles/communityIcon_wshm5n8a6v7c1.png" width="20" /> BITS Pilani: Bachelors in Computer Science 2023-2027  
