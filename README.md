@@ -1,5 +1,5 @@
-<h1 align="center">Heyyy, I'm Hanush</h1>
-<h3 align="center">Out of the Rat race, into the good life.</h3>
+<h1 align="center">Uhhhh Welcome to my profile!</h1>
+<h3 align="center">Most of my repositories are private cause of NDAs....confidential stuff and yea…copycats exist </h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Hanush" width="100%">
 
